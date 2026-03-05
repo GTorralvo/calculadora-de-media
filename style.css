@@ -17,3 +17,12 @@
     background-color: blue;
     color: #fff;
 }
+
+body {
+    margin: 0%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    background-color: linear-gradient(135, #27F5EB #BAF8FF);
+}
